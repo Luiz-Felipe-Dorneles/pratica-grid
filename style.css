@@ -58,12 +58,13 @@ ul{
 #bold{
     font-weight: bold;
     font-size: 30px;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'light';
 }
 
 #italic{
     font-style: italic;
     font-size: 30px;
+    font-family: 'light';
     
 }
 
@@ -98,12 +99,11 @@ ul{
     grid-template-columns: repeat(6, 1fr);
     grid-template-rows: repeat(8, 1fr);
     border-radius: 30px;
- 
 }
 
 .nomes{
     font-size: 25px;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-family:'light'
 }
 
 #nome{
@@ -116,7 +116,7 @@ ul{
 }
 
 #musea{
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family:'light';
     font-size: 40px;
 }
 .sofa
@@ -170,7 +170,7 @@ ul{
     margin-left: 20px;
     margin-top: 25px;
     font-size: 10px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'light';
     display: flex;
     justify-content: space-between;
     margin-right: 20px;
